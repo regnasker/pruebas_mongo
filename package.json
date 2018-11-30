@@ -1,0 +1,27 @@
+{
+  "name": "pruebas_mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regnasker/pruebas_mongo.git"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "Ruben",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/regnasker/pruebas_mongo/issues"
+  },
+  "homepage": "https://github.com/regnasker/pruebas_mongo#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.14"
+  }
+}
